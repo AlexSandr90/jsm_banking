@@ -1,5 +1,3 @@
-/** @format */
-
 const HeaderBox = ({
   type = 'title',
   title,
